@@ -4,4 +4,4 @@ def hello():
     print('Hello there, kenobi')
 
 hello()
-hello()
+#this helps deduplication- makes program shorter, easier to read
