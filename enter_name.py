@@ -1,4 +1,4 @@
-print('Enter a name')
+print('Enter a name' ) #comment
 name = input()
 if name != ' ':
     print('Thank you for entering a name.') #when string
